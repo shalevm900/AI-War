@@ -10,7 +10,7 @@ AI-Controlled Soldiers: Each soldier makes decisions based on risk factors and a
 
 Security Map: Dynamically updated risk assessment of the battlefield.
 
-Pathfinding Algorithm: Modified A* algorithm that avoids high-risk areas.
+Pathfinding Algorithm: Modified A* algorithm that avoids high-risk areas, BFS for searching enemies around the map and limited BFS to find optimal cover in war zone
 
 Grenades & Bullets Simulation: The game simulates grenade explosions and bullet trajectories, impacting the security map.
 
